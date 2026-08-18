@@ -1,0 +1,28 @@
+{
+  "cases": [
+    {
+      "query": "I have dark marks after acne. What ingredients help?",
+      "must_include_any": ["hyperpigmentation", "azelaic-acid", "niacinamide", "sunscreen"]
+    },
+    {
+      "query": "Retinol is peeling my face. What should I do?",
+      "must_include_any": ["irritation-repair", "retinoids", "ceramides"]
+    },
+    {
+      "query": "Oily skin with clogged pores, what exfoliant?",
+      "must_include_any": ["salicylic-acid", "oily-acne"]
+    },
+    {
+      "query": "Is vitamin C a morning or night serum?",
+      "must_include_any": ["vitamin-c", "sunscreen"]
+    },
+    {
+      "query": "Dry tight skin in winter, I need a moisturizer strategy",
+      "must_include_any": ["dry-skin", "ceramides", "hyaluronic-acid", "moisturizer-basics"]
+    },
+    {
+      "query": "Can I use retinoids while pregnant?",
+      "must_include_any": ["pregnancy-caution", "retinoids"]
+    }
+  ]
+}
