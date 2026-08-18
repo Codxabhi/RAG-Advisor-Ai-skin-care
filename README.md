@@ -4,16 +4,7 @@ Intermediate LLM project: a **personalized skincare advisor** with RAG (retrieva
 
 You describe your skin, the app retrieves relevant ingredient and routine notes from a local knowledge base, then an LLM writes an AM/PM plan with citations. You can also decode an ingredient list and ask follow-up questions.
 
-This is **not medical advice** and is not a substitute for a dermatologist.
-
-## What you will learn
-
-- Chunking a domain knowledge base
-- Embeddings + cosine retrieval (with a keyword fallback)
-- Grounded prompting with citations
-- Structured JSON output for routines
-- Optional vision (photo + text)
-- A tiny retrieval eval harness
+This is project is under development so advice with doctor is beneficiary
 
 ## Setup
 
